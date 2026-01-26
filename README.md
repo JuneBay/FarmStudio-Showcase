@@ -269,6 +269,6 @@ This showcase demonstrates:
 
 **Built with zero operational costs in mind, not expensive cloud infrastructure.**
 
-*For architecture walkthroughs and deeper technical details, please contact: [jbjhun@gmail.com](mailto:jbjhun@gmail.com)*
+*For architecture walkthroughs and deeper technical details, please [contact via LinkedIn](https://linkedin.com/in/junebay)*
 
 </div>
