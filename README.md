@@ -2,7 +2,7 @@
 
 **Senior Solution Architect | IoT Remote Monitoring System**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black?style=for-the-badge&logo=github)](https://github.com/JuneBay)
+[![GitHub](https://img.shields.io/badge/GitHub-Showcase-black?style=for-the-badge&logo=github)](https://github.com/JuneBay/FarmStudio-Showcase)
 
 ---
 
@@ -245,7 +245,7 @@ FarmStudio/
 
 ## 🔗 Related Resources
 
-- **Source Code**: Private Repository (Contact for access)
+- **Showcase Repository**: [FarmStudio-Showcase](https://github.com/JuneBay/FarmStudio-Showcase)
 - **Technical Details**: See [`IoT_Data_Pipeline_Snippet.py`](./IoT_Data_Pipeline_Snippet.py) for implementation highlights
 
 ---
