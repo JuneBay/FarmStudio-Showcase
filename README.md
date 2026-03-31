@@ -97,4 +97,5 @@ Running continuously for **3+ years** at **$0/month**.
 
 - **Profile**: [github.com/JuneBay](https://github.com/JuneBay)
 - **LinkedIn**: [linkedin.com/in/junebay](https://linkedin.com/in/junebay)
-- **Contact**: Via LinkedIn only
+
+- **Web**: [macrobay.kr](https://macrobay.kr)
