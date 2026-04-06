@@ -1,3 +1,15 @@
+> ## 📦 ARCHIVED — 통합되었습니다 / Consolidated
+>
+> **이 Showcase 레포는 [`JuneBay/JuneBay`](https://github.com/JuneBay) 메인 포트폴리오로 통합되었습니다.**
+> This Showcase repo has been consolidated into the [`JuneBay/JuneBay`](https://github.com/JuneBay) main portfolio.
+>
+> 👉 **케이스 스터디 / Case study**: [projects/farm-studio.md](https://github.com/JuneBay/JuneBay/blob/main/projects/farm-studio.md)
+> 👉 **외주 문의 / Project inquiries**: [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [크몽](https://kmong.com/@JuneBay) · [위시켓](https://www.wishket.com/partners/p/somster/)
+>
+> *(이 레포는 history 보존을 위해 archive 처리되었습니다 / Archived for history preservation.)*
+
+---
+
 # FarmStudio — Architecture Showcase
 
 **Remote IoT Monitoring System | SMTP-as-Backend**
