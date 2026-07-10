@@ -26,7 +26,7 @@ A **serverless IoT monitoring system** managing remote farms (100km+ away) using
 - **Remote Control:** Fully unmanned weekly operation
 - **Real-Time Data:** Temp, Humidity, Light, Images collected live
 - **Alerts:** Instant email notifications for anomalies
-- **>99% Delivery Rate:** High reliability even in unstable rural networks
+- **High Delivery Reliability:** even in unstable rural networks
 
 ### 2. Operational Stability
 - **OTA Updates:** Remote firmware updates without site visits
@@ -115,12 +115,12 @@ A **serverless IoT monitoring system** managing remote farms (100km+ away) using
 ### 1. Serverless Operations
 **Problem:** No budget/infrastructure for dedicated servers.
 **Solution:** Repurposed Gmail as a free, reliable IoT backend.
-**Result:** $0 operational cost, 99.9% uptime (Google SLA).
+**Result:** $0 operational cost, backed by Google's uptime SLA.
 
 ### 2. Unstable Rural Network
 **Problem:** Frequent connection drops in remote areas.
 **Solution:** Leveraged Email's store-and-forward nature.
-**Result:** >99% data delivery rate (devices retry until sent).
+**Result:** high data-delivery reliability (devices retry until sent).
 
 ### 3. Data Fragility
 **Problem:** Sensor errors and string corruption.
@@ -138,9 +138,9 @@ A **serverless IoT monitoring system** managing remote farms (100km+ away) using
 
 | Metric | Manual / Traditional | FarmStudio (Automated) | Improvement |
 |--------|----------------------|------------------------|-------------|
-| **Ops Model** | Monthly Site Visits | **Remote Unmanned** | **100% Remote** |
-| **Infra Cost** | Server + DB Fees | **$0** (Email) | **100% Savings** |
-| **Reliability** | Network Dependent | **Store-and-Forward** | **>99% Delivery** |
+| **Ops Model** | Monthly Site Visits | **Remote Unmanned** | **Fully Remote** |
+| **Infra Cost** | Server + DB Fees | **$0** (Email) | **No Server Cost** |
+| **Reliability** | Network Dependent | **Store-and-Forward** | **High Reliability** |
 | **Maintenance** | On-Site Required | **OTA Remote** | **Cost Reduction** |
 
 ---
