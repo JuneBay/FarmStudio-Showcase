@@ -33,7 +33,7 @@ Running continuously for **3+ years** at **$0/month**.
 | **Transport** | SMTP/IMAP (email-based pipeline) |
 | **Server Cost** | $0/month |
 | **Uptime** | 3+ years continuous |
-| **Data Reliability** | >99% delivery rate |
+| **Data Reliability** | High delivery reliability |
 | **Status** | Production, actively running |
 
 ---
@@ -89,7 +89,7 @@ Running continuously for **3+ years** at **$0/month**.
 - Zero-touch maintenance — no physical site visits required
 
 ### Network Resilience
-- >99% data delivery rate in unstable rural environments
+- High data-delivery reliability in unstable rural environments
 - Automatic retry built into SMTP protocol
 - No dependency on stable HTTP connections
 
